@@ -6,4 +6,7 @@
     <RootNamespace>xadrex_console</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="tabuleiro\" />
+  </ItemGroup>
 </Project>
